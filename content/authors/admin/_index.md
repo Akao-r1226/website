@@ -9,10 +9,6 @@ name_pronunciation: Akao Ryuuma
 first_name: Ryuuma
 last_name: Akao
 
-# Status emoji
-status:
-  icon: None
-
 # Is this the primary user of the site?
 superuser: true
 
