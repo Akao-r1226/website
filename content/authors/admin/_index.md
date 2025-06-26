@@ -46,7 +46,7 @@ education:
   - area: M. Eng., Dept. of Precision Engineering
     institution: The University of Tokyo
     date_start: 2024-04-01
-    date_end: None
+    date_end: 2026-03-31
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
