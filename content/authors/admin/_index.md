@@ -80,35 +80,6 @@ languages:
   - name: English
     percent: 50
 
-# Conferences
-markdown:
-  - title:
-    text: |-
-      ### Conferences (International)
-      R. Akao, S. Masui, M. Michihata, and S. Takahashi, “Study on AI-driven Optical Distribution Measurement without   Forming Images -Development of Rapid Phase Distribution Measurement Method-,” in The 20th International Conference on Precision Engineering, Oct. 2024.
-      
-      ###Conferences (Domestic)
-      赤尾竜将，管一兆，門屋祥太郎，道畑正岐，高橋哲，「AI 駆動・非結像型光学分布計測に関する研究（第一報）―高速位相分布測定法の開発―」，2024 年度精密工学会春季大会学術講演会, Mar. 2024．
-      
-      赤尾竜将，管一兆，増井周造，道畑正岐，高橋哲，「AI 駆動・非結像型光学分布計測に関する研究（第二報）―提案高速位相分布測定法の実証―」，2024 年度精密工学会秋季大会学術講演会, Sep. 2024．
-      
-      赤尾竜将，増井周造，道畑正岐，高橋哲，「AI 駆動・非結像型光学分布計測に関する研究（第三報）―レンズレス型位相分布測定法の提案と基本概念実証―」，2025 年度精密工学会春季大会学術講演会, Mar. 2025．
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: ベストプレゼンテーション賞, 2024年度精密工学会春季大会学術講演会.
-    date: '2024-03-01'
-    awarder: 精密工学会
-  - title: 工学部長賞（学修）.
-    date: '2024-03-01'
-    awarder: 東京大学工学部精密工学科
-  - title: ポスター発表企業賞，2025年度精密工学会春季大会学術講演会.
-    date: '2025-03-01'
-    awarder: レーザーテック株式会社
-
 ---
 
 <div style="text-align: center; font-family: 'Arial'; font-size: 2.0rem;">
@@ -124,3 +95,31 @@ My research aims to enhance the spatial resolution of optical phase imaging syst
   <img src="images/research_concept.png" alt="研究概要" style="max-width: 100%;">
   <figcaption style="text-align: center;">研究概念図（光学変調と深層学習による位相分布再構成）</figcaption>
 </figure>
+
+<div style="text-align: center; font-family: 'Arial'; font-size: 2.0rem;">
+  Conferences (International)
+</div>  
+R. Akao, S. Masui, M. Michihata, and S. Takahashi, “Study on AI-driven Optical Distribution Measurement without   Forming Images -Development of Rapid Phase Distribution Measurement Method-,” in The 20th International Conference on Precision Engineering, Oct. 2024.
+
+<div style="text-align: center; font-family: 'Arial'; font-size: 2.0rem;">
+  Conferences (Domestic)
+</div>  
+<div style="text-align: center; font-family: 'Arial'; font-size: 1.5rem;">
+  赤尾竜将，管一兆，門屋祥太郎，道畑正岐，高橋哲，「AI 駆動・非結像型光学分布計測に関する研究（第一報）―高速位相分布測定法の開発―」，2024 年度精密工学会春季大会学術講演会, Mar. 2024．
+</div> 
+<div style="text-align: center; font-family: 'Arial'; font-size: 1.5rem;">
+  赤尾竜将，管一兆，増井周造，道畑正岐，高橋哲，「AI 駆動・非結像型光学分布計測に関する研究（第二報）―提案高速位相分布測定法の実証―」，2024 年度精密工学会秋季大会学術講演会, Sep. 2024．
+        
+  赤尾竜将，増井周造，道畑正岐，高橋哲，「AI 駆動・非結像型光学分布計測に関する研究（第三報）―レンズレス型位相分布測定法の提案と基本概念実証―」，2025 年度精密工学会春季大会学術講演会, Mar. 2025．
+</div>
+
+<div style="text-align: center; font-family: 'Arial'; font-size: 2.0rem;">
+  Awards
+</div>  
+<div style="text-align: center; font-family: 'Arial'; font-size: 1.5rem;">
+  ベストプレゼンテーション賞, 2024年度精密工学会春季大会学術講演会, Mar. 2024.
+
+  工学部長賞（学修）, 東京大学工学部精密工学科, Mar. 2024.
+
+  ポスター発表企業賞（レーザーテック株式会社），2025年度精密工学会春季大会学術講演会, Mar. 2025.
+</div>
