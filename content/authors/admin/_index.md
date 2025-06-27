@@ -119,3 +119,4 @@ Optical phase imaging is a crucial technology employed in various fields, such a
 My research aims to enhance the spatial resolution of optical phase imaging systems by leveraging the concept of controlling measurement characteristics through appropriate modulation of the object light. Since recovering the original object light from its modulated form is generally a challenging inverse problem, my approach integrates deep learning into the measurement process to enable accurate reconstruction.
 
 ![研究概要](images/research_concept.png)
+My research concept
