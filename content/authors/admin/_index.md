@@ -110,8 +110,8 @@ awards:
 
 **Research**　　
   
-光の位相分布計測はバイオ試料用の顕微鏡や天体望遠鏡の補償光学などに利用されている重要技術です．しかし，Shack-Hartmannセンサや干渉法，反復フーリエ変換法などの主要な位相分布計測技術は，それぞれ空間分解能や空気揺らぎへの耐性，計測時間など主要な用途において中核的な計測特性に課題を抱えています．　　
+光の位相分布計測はバイオ試料用の顕微鏡や天体望遠鏡の補償光学などに利用されている重要技術です．しかし，Shack-Hartmannセンサや干渉法，反復フーリエ変換法などの主要な位相分布計測技術は，それぞれ空間分解能や空気揺らぎへの耐性，計測時間など主要な用途において中核的な計測特性に課題を抱えています．　
 私の研究は，計測対象光に特定の光学変調をかけることで計測系の計測特性を制御するというコンセプトの下で，位相分布計測系の空間分解能の向上を目標としております．一般に，光学変調をかけた光から元の計測光を逆算することは難しいので，深層学習を計測系に導入することで計測光の位相分布を再構成することに取り組んでおります．
-　　
+
 Optical phase imaging is a crucial technology employed in various fields, such as biological microscopy, adaptive optics in telescopes, and more. However, conventional phase imaging techniques—such as Shack-Hartmann sensors, interferometry, and iterative Fourier transforms—suffer from limitations in measurement characteristics, including spatial resolution, robustness to air turbulence, and acquisition time. These limitations can critically affect their practical applications.  
 My research aims to enhance the spatial resolution of optical phase imaging systems by leveraging the concept of controlling measurement characteristics through appropriate modulation of the object light. Since recovering the original object light from its modulated form is generally a challenging inverse problem, my approach integrates deep learning into the measurement process to enable accurate reconstruction.
