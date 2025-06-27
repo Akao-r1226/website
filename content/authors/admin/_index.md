@@ -80,11 +80,6 @@ languages:
   - name: English
     percent: 50
 
-# Conferences(international)
-conferences(international):
-  - title: R. Akao, S. Masui, M. Michihata, and S. Takahashi, “Study on AI-driven Optical Distribution Measurement without   Forming Images -Development of Rapid Phase Distribution Measurement Method-,” in The 20th International Conference on Precision Engineering.
-    date: '2024-10-01'
-
 # Conferences(domestic)
 conferences(domestic):
   - title: 赤尾竜将，管一兆，門屋祥太郎，道畑正岐，高橋哲，「AI 駆動・非結像型光学分布計測に関する研究（第一報）―高速位相分布測定法の開発―」，2024 年度精密工学会春季大会学術講演会．
@@ -108,6 +103,22 @@ awards:
   - title: ポスター発表企業賞，2025年度精密工学会春季大会学術講演会.
     date: '2025-03-01'
     awarder: レーザーテック株式会社
+
+blocks:
+  - block: hero
+  - block: biography
+  - block: education
+  - block: custom_text
+  - block: skills
+  - block: awards
+
+block: custom_text
+content:
+  title: "Conferences(international)"
+  text: >
+    <div style="text-align: center;">
+      R. Akao, S. Masui, M. Michihata, and S. Takahashi, “Study on AI-driven Optical Distribution Measurement without   Forming Images -Development of Rapid Phase Distribution Measurement Method-,” in The 20th International Conference on Precision Engineering, Oct. 2024.
+    </div>
 ---
 
 <div style="text-align: center; font-family: 'Arial'; font-size: 2.0rem;">
