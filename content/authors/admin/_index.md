@@ -118,4 +118,7 @@ awards:
 Optical phase imaging is a crucial technology employed in various fields, such as biological microscopy, adaptive optics in telescopes, and more. However, conventional phase imaging techniques—such as Shack-Hartmann sensors, interferometry, and iterative Fourier transforms—suffer from limitations in measurement characteristics, including spatial resolution, robustness to air turbulence, and acquisition time. These limitations can critically affect their practical applications.  
 My research aims to enhance the spatial resolution of optical phase imaging systems by leveraging the concept of controlling measurement characteristics through appropriate modulation of the object light. Since recovering the original object light from its modulated form is generally a challenging inverse problem, my approach integrates deep learning into the measurement process to enable accurate reconstruction.
 
-![研究概要](images/research_concept.png)My research concept
+<figure>
+  <img src="images/research_concept.png" alt="研究概要" style="max-width: 100%;">
+  <figcaption>研究概念図（光学変調と深層学習による位相分布再構成）</figcaption>
+</figure>
