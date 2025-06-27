@@ -110,7 +110,9 @@ awards:
     awarder: レーザーテック株式会社
 ---
 
-**Research**　　
+<div style="text-align: center; font-family: 'Arial'; font-size: 1.1rem;">
+  About My Research
+</div>　　
   
 光の位相分布計測はバイオ試料用の顕微鏡や天体望遠鏡の補償光学などに利用されている重要技術です．しかし，Shack-Hartmannセンサや干渉法，反復フーリエ変換法などの主要な位相分布計測技術は，それぞれ空間分解能や空気揺らぎへの耐性，計測時間など主要な用途において中核的な計測特性に課題を抱えています．  
 私の研究は，計測対象光に特定の光学変調をかけることで計測系の計測特性を制御するというコンセプトの下で，位相分布計測系の空間分解能の向上を目標としております．一般に，光学変調をかけた光から元の計測光を逆算することは難しいので，深層学習を計測系に導入することで計測光の位相分布を再構成することに取り組んでおります．
@@ -120,5 +122,5 @@ My research aims to enhance the spatial resolution of optical phase imaging syst
 
 <figure>
   <img src="images/research_concept.png" alt="研究概要" style="max-width: 100%;">
-  <figcaption>研究概念図（光学変調と深層学習による位相分布再構成）</figcaption>
+  <figcaption style="text-align: center;">研究概念図（光学変調と深層学習による位相分布再構成）</figcaption>
 </figure>
