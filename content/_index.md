@@ -37,6 +37,14 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
+  - block: conferences(international)
+    content:
+      title: Conferences(international)
+      username: admin
+  - block: conferences(domestic)
+    content:
+      title: Conferences(domestic)
+      username: admin
   - block: awards
     content:
       title: Awards

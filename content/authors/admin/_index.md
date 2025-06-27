@@ -83,7 +83,7 @@ languages:
 # Conferences(international)
 conferences(international):
   - title: R. Akao, S. Masui, M. Michihata, and S. Takahashi, “Study on AI-driven Optical Distribution Measurement without   Forming Images -Development of Rapid Phase Distribution Measurement Method-,” in The 20th International Conference on Precision Engineering.
-    #date: '2024-10-01'
+    date: '2024-10-01'
 
 # Conferences(domestic)
 conferences(domestic):
