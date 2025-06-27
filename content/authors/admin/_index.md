@@ -99,14 +99,14 @@ My research aims to enhance the spatial resolution of optical phase imaging syst
 <div style="text-align: center; font-family: 'Arial'; font-size: 2.0rem;">
   Conferences (International)
 </div>
-<div style="text-align: center; font-family: 'Arial'; font-size: 1.2rem;">  
+<div style="text-align: justify; font-family: 'Arial'; font-size: 1.2rem;">  
 R. Akao, S. Masui, M. Michihata, and S. Takahashi, “Study on AI-driven Optical Distribution Measurement without   Forming Images -Development of Rapid Phase Distribution Measurement Method-,” in The 20th International Conference on Precision Engineering, Oct. 2024.
 </div>
 
 <div style="text-align: center; font-family: 'Arial'; font-size: 2.0rem;">
   Conferences (Domestic)
 </div>  
-<div style="text-align: center; font-family: 'Arial'; font-size: 1.2rem;">
+<div style="text-align: justify; font-family: 'Arial'; font-size: 1.2rem;">
   赤尾竜将，管一兆，門屋祥太郎，道畑正岐，高橋哲，「AI 駆動・非結像型光学分布計測に関する研究（第一報）―高速位相分布測定法の開発―」，2024 年度精密工学会春季大会学術講演会, Mar. 2024．
 
   赤尾竜将，管一兆，増井周造，道畑正岐，高橋哲，「AI 駆動・非結像型光学分布計測に関する研究（第二報）―提案高速位相分布測定法の実証―」，2024 年度精密工学会秋季大会学術講演会, Sep. 2024．
@@ -117,7 +117,7 @@ R. Akao, S. Masui, M. Michihata, and S. Takahashi, “Study on AI-driven Optical
 <div style="text-align: center; font-family: 'Arial'; font-size: 2.0rem;">
   Awards
 </div>  
-<div style="text-align: center; font-family: 'Arial'; font-size: 1.2rem;">
+<div style="text-align: justify; font-family: 'Arial'; font-size: 1.2rem;">
   ベストプレゼンテーション賞, 2024年度精密工学会春季大会学術講演会, Mar. 2024.
 
   工学部長賞（学修）, 東京大学工学部精密工学科, Mar. 2024.
