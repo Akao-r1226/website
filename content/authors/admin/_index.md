@@ -81,7 +81,7 @@ languages:
     percent: 50
 
 # Conferences
-Markdown:
+markdown:
   - title:
     text: |-
       ### Conferences (International)
