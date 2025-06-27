@@ -37,11 +37,11 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-  - block: conferences(international)
+  - block: conferences_international
     content:
       title: Conferences(international)
       username: admin
-  - block: conferences(domestic)
+  - block: conferences_domestic
     content:
       title: Conferences(domestic)
       username: admin
