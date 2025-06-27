@@ -95,7 +95,7 @@ languages:
 
 <figure>
   <img src="images/research_concept.png" alt="研究概要" style="max-width: 100%;">
-  <figcaption style="text-align: center; font-size: 0.8rem;">研究概念図（光学変調と深層学習による位相分布再構成）</figcaption>
+  <figcaption style="text-align: center; font-size: 1.0rem;">研究概念図（光学変調と深層学習による位相分布再構成）</figcaption>
 </figure>
 
 <div style="text-align: center; font-family: 'Arial'; font-size: 2.0rem;">
