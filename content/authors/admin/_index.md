@@ -13,7 +13,7 @@ last_name: Akao
 superuser: true
 
 # Role/position/tagline
-role: 2nd year Graduate Student 
+role: 1st year Ph.D. Student 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -43,6 +43,10 @@ education:
     institution: The University of Tokyo
     date_start: 2024-04-01
     date_end: 2026-03-31
+  - area: D. Eng., Dept. of Precision Engineering
+    institution: The University of Tokyo
+    date_start: 2026-04-01
+    date_end: 2029-03-31
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -51,11 +55,11 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 60
+        percent: 70
         icon: devicon/python
       - name: Tensorflow
         description: ''
-        percent: 60
+        percent: 70
         icon: devicon-tensorflow-original
   - name: Hobbies
     color: '#eeac02'
@@ -78,7 +82,7 @@ languages:
   - name: Japanese
     percent: 100
   - name: English
-    percent: 50
+    percent: 70
 
 ---
 
@@ -99,10 +103,21 @@ languages:
 </figure>
 
 <div style="text-align: center; font-family: 'Arial'; font-size: 2.0rem;">
+  Papers
+</div>
+<div style="text-align: justify; font-family: 'Arial'; font-size: 1.2rem;">
+  R. Akao, S. Masui, M. Michihata, and S. Takahashi, "Deep-learning-assisted subwavelength phase imaging based on a quantitative lensless design rule," Optics Letters. (投稿中)【Optica Openにて2026.5.13よりpreprint公開済み(preprint ID: 131752)】
+</div>
+
+<div style="text-align: center; font-family: 'Arial'; font-size: 2.0rem;">
   Conferences (International)
 </div>
 <div style="text-align: justify; font-family: 'Arial'; font-size: 1.2rem;">  
-  R. Akao, S. Masui, M. Michihata, and S. Takahashi, “Study on AI-driven Optical Distribution Measurement without   Forming Images -Development of Rapid Phase Distribution Measurement Method-,” in The 20th International Conference on Precision Engineering, Oct. 2024.
+  R. Akao, S. Masui, M. Michihata, and S. Takahashi, “Study on AI-driven Optical Distribution Measurement without Forming Images ―Development of Rapid Phase Distribution Measurement Method―,” in The 20th International Conference on Precision Engineering, Oct. 2024.
+
+  R. Akao, S. Masui, M. Michihata, and S. Takahashi, “Development of Lensless Phase Imaging System based on Deep Learning Reconstruction ―Proposal and Validation of the System―,” in The 11th International Conference of Asian Society for Precision Engineering and Nanotechnology, Nov. 2025.
+
+  R. Akao, S. Masui, M. Michihata, and S. Takahashi, “Proposal for Deep Learning Process based on Physical Model for Diffusing Lensless Phase Imaging System,” in OPTICS & PHOTONICS International Congress 2026, Information Photonics, Apr. 2026.
 </div>
 
 <div style="text-align: center; font-family: 'Arial'; font-size: 2.0rem;">
@@ -114,6 +129,10 @@ languages:
   赤尾竜将，管一兆，増井周造，道畑正岐，高橋哲，「AI 駆動・非結像型光学分布計測に関する研究（第二報）―提案高速位相分布測定法の実証―」，2024 年度精密工学会秋季大会学術講演会, Sep. 2024．
         
   赤尾竜将，増井周造，道畑正岐，高橋哲，「AI 駆動・非結像型光学分布計測に関する研究（第三報）―レンズレス型位相分布測定法の提案と基本概念実証―」，2025 年度精密工学会春季大会学術講演会, Mar. 2025．
+
+  赤尾竜将，増井周造，道畑正岐，高橋哲，「AI 駆動・非結像型光学分布計測に関する研究（第四報）―物理モデル組み込み型深層学習プロセスによる位相分布計測法の提案―」，2025 年度精密工学会秋季大会学術講演会, Sep. 2025．
+
+  赤尾竜将，増井周造，道畑正岐，高橋哲，「AI 駆動・非結像型光学分布計測に関する研究（第五報）―位相分布計測における拡散板による空間分解能向上効果の検証―」，2026 年度精密工学会春季大会学術講演会, Mar. 2026．
 </div>
 
 <div style="text-align: center; font-family: 'Arial'; font-size: 2.0rem;">
@@ -126,4 +145,7 @@ languages:
   （学科主席に相当）
 
   ポスター発表企業賞（レーザーテック株式会社），2025年度精密工学会春季大会学術講演会, Mar. 2025.
+
+  工学系研究科長賞, 東京大学工学系研究科精密工学専攻, Mar. 2026.<br>
+  （専攻主席に相当）
 </div>
