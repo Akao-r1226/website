@@ -106,7 +106,7 @@ languages:
   Papers
 </div>
 <div style="text-align: justify; font-family: 'Arial'; font-size: 1.2rem;">
-  R. Akao, S. Masui, M. Michihata, and S. Takahashi, "Deep-learning-assisted subwavelength phase imaging based on a quantitative lensless design rule," Optics Letters. (投稿中)【Optica Openにて2026.5.13よりpreprint公開済み(preprint ID: <a href="https://doi.org/10.1364/opticaopen.32242437">131752</a>)】
+  R. Akao, S. Masui, M. Michihata, and S. Takahashi, "Deep-learning-assisted subwavelength phase imaging based on a quantitative lensless design rule," Optics Letters. (投稿中)【Optica Openにて2026.5.13よりpreprint公開済み(preprint ID: <a href="https://doi.org/10.1364/opticaopen.32242437"　style="color: blue; text-decoration: none;">131752</a>)】
 </div>
 
 <div style="text-align: center; font-family: 'Arial'; font-size: 2.0rem;">
